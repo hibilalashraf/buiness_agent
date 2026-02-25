@@ -104,3 +104,38 @@ Bilal Ashraf
 
 If you like this project, give it a ⭐ on GitHub.
 
+🧪 Example Use Cases
+
+Customer support automation
+
+Internal business knowledge assistant
+
+Social media auto-reply agent
+
+Sales assistant
+
+🛣️ Roadmap
+
+ WhatsApp integration
+
+ Slack integration
+
+ Admin analytics dashboard
+
+ Multi-tenant SaaS version
+
+🤝 Contributing
+
+Pull requests are welcome.
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+📜 License
+
+MIT License
+
+👨‍💻 Author
+
+Bilal Ashraf
+
+If you like this project, give it a ⭐ on GitHub.
